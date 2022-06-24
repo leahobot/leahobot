@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @leahobot
-- 👀 I’m interested in **software development**
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on exiting projects
-- 📫 How to reach me quickly by email (leahobot@gmail.com)
+#### 👋 Hi there, I'm Leah
+A Software Engineer.
+
+
+
+
+
+
+
+#### 🧰 My Skills
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma logo" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django logo" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql logo" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50" />
+
+
+
+
+
+
+
 
 <!---
 leahobot/leahobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
